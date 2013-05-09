@@ -2,7 +2,6 @@
 """\
 A consumer/client implemenation that works with the PyBit system to track
 the status of running jobs.
-"""
 
 Author: Michael Mulich
 Copyright (c) 2012-2013 Rice University
